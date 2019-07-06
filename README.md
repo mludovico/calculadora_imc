@@ -1,6 +1,6 @@
 # calculadora_imc
 
-Calcula o IMC com base no peso e altura da pessoa.
+Calcula o IMC com base no peso e altura da pessoa. App 2 Curso Flutter
 
 ## Getting Started
 
